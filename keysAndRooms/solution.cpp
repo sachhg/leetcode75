@@ -1,3 +1,4 @@
+//Runs in O(n + k)
 class Solution {
 public:
     std::vector<bool> canVisit;
